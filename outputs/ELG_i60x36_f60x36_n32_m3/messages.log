@@ -1,0 +1,16 @@
+[32m25/04 23:05[0m [1;30mINFO[0m Built model.
+[32m25/04 23:05[0m [1;30mINFO[0m ------------------------------
+[32m25/04 23:05[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m25/04 23:05[0m [1;30mINFO[0m ------------------------------
+[32m25/04 23:05[0m [1;30mINFO[0m FLOPS per input: 262,049,946.8125
+[32m25/04 23:05[0m [1;30mINFO[0m Trainable Parameters: 203,471
+[32m25/04 23:05[0m [1;30mINFO[0m ------------------------------
+[32m25/04 23:05[0m [1;30mINFO[0m Built model.
+[32m25/04 23:05[0m [1;30mINFO[0m ------------------------------
+[32m25/04 23:05[0m [1;30mINFO[0m  Approximate Model Statistics 
+[32m25/04 23:05[0m [1;30mINFO[0m ------------------------------
+[32m25/04 23:05[0m [1;30mINFO[0m FLOPS per input: 262,049,946.8125
+[32m25/04 23:05[0m [1;30mINFO[0m Trainable Parameters: 203,471
+[32m25/04 23:05[0m [1;30mINFO[0m ------------------------------
+[32m25/04 23:05[0m [1;30mINFO[0m Built optimizer for: heatmaps_mse, radius_mse
+[32m25/04 23:06[0m [1;30mERROR[0m [31mSession failed to close after 30 seconds. Continuing after this point may leave your program in an undefined state.[0m
